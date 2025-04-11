@@ -11,8 +11,6 @@
 <body class="container mx-auto flex justify-center items-center h-screen">
     <h2 class="text-3xl font-bold text-center">
         Welcome to Dorjarpar.online
-        <p>This website is owned by <a href="https://shikderbd.org" target="_blank">Sohag Hossain</a></p>
-        removed .ds store from git
     </h2>
 </body>
 
